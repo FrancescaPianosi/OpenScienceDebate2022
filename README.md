@@ -12,13 +12,13 @@ Wednesday 25 May, 10:20–11:50 (CEST), Room E1
 
 Our panel members include
 
-<a href="https://www.research.manchester.ac.uk/portal/christopher.jackson.html">**Christopher Jackson**</a>, University of Manchester, co-funder of EarthArXiv 
+<a href="https://www.research.manchester.ac.uk/portal/christopher.jackson.html">Christopher Jackson</a>, University of Manchester, co-funder of EarthArXiv 
 
-**Sally Rumsey**, Jisc OA Expert + cOAlition S
+<a href="https://www.coalition-s.org/logo/sally-rumsey/">Sally Rumsey</a>, Jisc OA Expert + cOAlition S
 
-**Peter Löwe**, IT & eScience Department at WZB Berlin Social Science Center + Open Source Geospatial Foundation
+<a href="https://wiki.osgeo.org/wiki/User:Peter_Loewe">Peter Löwe</a>, IT & eScience Department at WZB Berlin Social Science Center + Open Source Geospatial Foundation
 
-<a href="https://www.deltares.nl/en/experts/albrecht-weerts-2/">**Albrecht Weerts**</a>, Expert Hydrology, Deltares
+<a href="https://www.deltares.nl/en/experts/albrecht-weerts-2/">Albrecht Weerts</a>, Expert Hydrology, Deltares
 
 **How to participate**
 
